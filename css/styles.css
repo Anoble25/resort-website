@@ -1,13 +1,26 @@
 body {
-  background-image: url("junk-back.jpg");
-  background-size: cover;
-  background-repeat: no-repeat;
+  background-color: green;
+}
+
+img {
+  vertical-align: middle;
+
 }
 
 h1 {
   color: yellow;
+  text-align: center;
 }
 
 h2 {
   color: orange;
+  text-align: center;
+}
+
+h3 {
+  color: black;
+  text-align: center;
+}
+p {
+  text-align:center;
 }
