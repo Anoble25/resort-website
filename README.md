@@ -19,6 +19,7 @@
 ## Technologies Used
 
 #### _HTML_
+#### _CSS_
 
 ## Legal
 
